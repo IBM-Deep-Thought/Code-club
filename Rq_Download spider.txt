@@ -1,0 +1,1 @@
+https://github.com/spyder-ide/spyder/releases/latest/download/Spyder_64bit_full.exe

@@ -1,0 +1,5 @@
+INSTRUCTIONS:
+1. Dowload the zip file.
+2. Dowload spider (link in the zip file).
+3. Open with spider sign in code.
+	P.S Don't open any other files as it is programmed to shut down the hole file if so.
